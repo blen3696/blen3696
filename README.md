@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🔭 I'm currently pushing bachelors in software engineering in Addis Ababa University<br><br>🌱 I’m currently learning Fullstack Web Development with a focus on the MERN Stack.<br><br>👯 I’m looking to collaborate on software development projects and community initiatives.<br><br>🤔 I’m very intersected in advanced algorithms and competitive programming.<br><br>💬 Ask me about anything tech-related—I love learning and sharing knowledge!<br><br>👨‍💻 Life Hack: Stay curious, keep building, and share what you learn. 🎉
 
