@@ -5,7 +5,7 @@
 💼 [LinkedIn](https://www.linkedin.com/in/blen-redwan/) | 🐦 [X (Twitter)](https://x.com/BlenRedwan39035) | 💬 [Discord](https://discord.com/channels/@me)  
 
 ## 🚀 About Me  
-I'm a Software Engineering student at Addis Ababa University, passionate about web development, algorithms, and using tech to solve real-world problems. I’m currently learning Fullstack Web Development with a focus on the **MERN Stack**, and actively exploring advanced **algorithms** and **competitive programming**.
+I'm a Software Engineering student at Addis Ababa University, passionate about web development, algorithms, and using tech to solve real-world problems. I’m currently working on Fullstack Web Development with a focus on the **MERN Stack**, and actively exploring advanced **algorithms** and **competitive programming**.
 
 I’m especially interested in community projects, knowledge-sharing, and building impactful tools that support education, accessibility, and innovation in Ethiopia and beyond.
 
