@@ -4,13 +4,12 @@
 📧 Contact: [blenredwan@gmail.com]  
 💼 [LinkedIn](https://www.linkedin.com/in/blen-redwan/) | 🐦 [X (Twitter)](https://x.com/BlenRedwan39035) | 💬 [Discord](https://discord.com/channels/@me)  
 
-#  About Me  
+# 🚀 About Me  
 I'm a Software Engineer, passionate about web development, algorithms, and using tech to solve real-world problems. I’m currently working on Fullstack Web Development, and actively exploring advanced **algorithms** and **competitive programming**.
 
 I’m especially interested in community projects, knowledge-sharing, and building impactful tools that support education, accessibility, and innovation in Ethiopia and beyond.
 
-
-## 🚀 Tech Stack  
+# 🛠 Tech Stack  
 
 - **Languages:** JavaScript, TypeScript, Python, Java, Dart  
 - **Frontend Development:** React, Next.js, TailwindCSS, Material UI, Flutter  
@@ -18,13 +17,9 @@ I’m especially interested in community projects, knowledge-sharing, and buildi
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
 - **Other Skills:** Zustand, Bloc, REST API, OOP, SDLC, Git
 
-
----
-🎯 Interests
+# 🎯 Interests
 
 Backend Development, Full Stack Engineering, Community Leadership, Competitive Programming
-
----
 
 #  Let's Connect!  
 Feel free to explore my repositories and reach out to collaborate, share ideas, or just chat about tech! 🚀
