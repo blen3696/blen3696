@@ -5,43 +5,26 @@
 💼 [LinkedIn](https://www.linkedin.com/in/blen-redwan/) | 🐦 [X (Twitter)](https://x.com/BlenRedwan39035) | 💬 [Discord](https://discord.com/channels/@me)  
 
 #  About Me  
-I'm a Software Engineering student at Addis Ababa University, passionate about web development, algorithms, and using tech to solve real-world problems. I’m currently working on Fullstack Web Development with a focus on the **MERN Stack**, and actively exploring advanced **algorithms** and **competitive programming**.
+I'm a Software Engineer, passionate about web development, algorithms, and using tech to solve real-world problems. I’m currently working on Fullstack Web Development, and actively exploring advanced **algorithms** and **competitive programming**.
 
 I’m especially interested in community projects, knowledge-sharing, and building impactful tools that support education, accessibility, and innovation in Ethiopia and beyond.
 
 
 ## 🚀 Tech Stack  
 
-**Frontend**  
-React · Next.js · TailwindCSS · Material UI · Flutter  
+- **Languages:** JavaScript, TypeScript, Python, Java, Dart  
+- **Frontend Development:** React, Next.js, TailwindCSS, Material UI, Flutter  
+- **Backend Development:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
+- **Other Skills:** Zustand, Bloc, REST API, OOP, SDLC, Git
 
-**Backend**  
-Node.js · Express.js · NestJS  
-
-**Databases**  
-MongoDB · MySQL · Firebase  
-
-**Languages**  
-JavaScript · TypeScript · Python · Java · Dart  
-
-**Other**  
-Git · Netlify · REST API · OOP · SDLC  
 
 ---
+🎯 Interests
 
-## 🎯 Interests  
-- Backend Engineering & Scalable Systems  
-- Competitive Programming & Algorithms  
-- Space Tech & AI in Agriculture  
-- Community Building & Open Source  
+Backend Development, Full Stack Engineering, Community Leadership, Competitive Programming
 
 ---
-
-## 📊 GitHub Stats  
-![Blen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlenRedwan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlenRedwan&layout=compact&theme=tokyonight)  
-
---- 
 
 #  Let's Connect!  
 Feel free to explore my repositories and reach out to collaborate, share ideas, or just chat about tech! 🚀
