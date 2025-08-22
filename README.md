@@ -2,15 +2,14 @@
 
 🌍 Based in Addis Ababa, Ethiopia  
 📧 Contact: [blenredwan@gmail.com](mailto:blenredwan@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/blen-redwan/) | 🐦 [X (Twitter)](https://x.com/BlenRedwan39035) | 💬 Discord: BlenRedwan#XXXX  
+💼 [LinkedIn](https://www.linkedin.com/in/blen-redwan/) | 💬 [X (Twitter)](https://x.com/BlenRedwan39035) | 🎯[Leetcode](https://leetcode.com/u/blen3696/)  
 
 
 ## 🚀 About Me  
 
-I’m a Software Engineer with a passion for **web development, algorithms, and creating tech solutions that make a real impact**. Currently, I’m focused on **Fullstack Web Development**, while actively exploring **advanced algorithms** and **competitive programming**.  
+I'm a **Software Engineer**, with a strong focus on web development, algorithms, and using tech to solve real-world problems. I’m currently working on Fullstack Web Development, and actively exploring advanced **algorithms** and **competitive programming**.
 
-I enjoy contributing to **community projects**, sharing knowledge, and building tools that improve **education, accessibility, and innovation** in Ethiopia and beyond. I’m constantly learning, growing, and striving to turn ideas into meaningful solutions.  
-
+I’m particularly drawn to community projects, knowledge-sharing, and building tools that make a tangible impact in education, accessibility, and innovation in Ethiopia and beyond.  
 
 ## 🛠 Tech Stack  
 
