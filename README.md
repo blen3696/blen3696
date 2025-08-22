@@ -1,6 +1,5 @@
 # Hi, I'm Blen Redwan! 👋  
-🌍 Based in Addis Ababa, Ethiopia  
-🎓 Software Engineering Student at Addis Ababa University  
+🌍 Based in Addis Ababa, Ethiopia   
 📧 Contact: [blenredwan@gmail.com]  
 💼 [LinkedIn](https://www.linkedin.com/in/blen-redwan/) | 🐦 [X (Twitter)](https://x.com/BlenRedwan39035) | 💬 [Discord](https://discord.com/channels/@me)  
 
