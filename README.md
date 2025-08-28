@@ -16,7 +16,7 @@ I’m particularly drawn to community projects, knowledge-sharing, and building 
 - **Languages:** JavaScript, TypeScript, Python, Java, Dart  
 - **Frontend Development:** React, Next.js, TailwindCSS, Material UI, Flutter  
 - **Backend Development:** Node.js, Express.js 
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
+- **Databases:** MySQL, PostgreSQL, Firebase  
 - **State Management:** Zustand, Bloc  
 - **Other Skills:** REST API, OOP, SDLC, Git  
 
